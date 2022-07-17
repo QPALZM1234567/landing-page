@@ -89,8 +89,17 @@ button:active {
 
 
 .info {
+    display: flex;
+    flex-direction: column;
     flex: 1 0 200px;
     background: white;
+    align-items: center;
+}
+
+.info h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
 }
 
 .quote {
