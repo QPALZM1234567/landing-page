@@ -96,6 +96,15 @@ button:active {
     align-items: center;
 }
 
+.hobbies {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hobbies img{
+    max-width: 20%;
+}
+
 .info h1 {
     font-size: 36px;
     font-weight: bolder;
