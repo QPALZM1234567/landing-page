@@ -147,4 +147,13 @@ button:active {
 
 .bottom {
     flex: 1 0 200px;
+    padding: 5% 10%;
+}
+
+.action{
+    display: flex;
+    background-color: #3882F6;
+    justify-content: space-between;
+    padding: 3% 10%;
+    border-radius: 5px;
 }
